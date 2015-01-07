@@ -103,7 +103,7 @@ a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearc
 1. Makulec, Krzysztof
 1. [Miotk, Mateusz](https://github.com/miotek32/MapReduceMongoDB)
 1. Miś, Maciej
-1. Nowak, Wojciech
+1. [Nowak, Wojciech](https://github.com/YoungCoder/agregacje3_exam)
 1. Nowicki, Jakub
 1. [Ossowski, Marcin](https://github.com/mossowski/NoSQL-egz)
 1. Piotrkowski, Łukasz
